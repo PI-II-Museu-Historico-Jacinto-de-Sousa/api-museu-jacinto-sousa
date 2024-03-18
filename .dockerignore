@@ -1,0 +1,10 @@
+#git files
+.git
+.gitignore
+.github
+
+# project files
+README.md
+LICENSE
+.editorconfig
+tests
